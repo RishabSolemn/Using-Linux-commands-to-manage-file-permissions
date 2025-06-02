@@ -42,10 +42,9 @@ Hi! I'm Rishab, a 16-year-old student passionate about cybersecurity, AI, and fi
 
 ## 🌐 Connect with Me
 
-- 📧 Email: yourmail@example.com  
-- 🧠 Blog: [Your Medium or Blog Site]  
-- 💬 LinkedIn: [Your LinkedIn]  
-- 🔐 HackerOne / TryHackMe: [Your Profile] *(if any)*
+- 📧 Email: Rishabsolemn@gmail.com  
+- 💬 LinkedIn: Rishab Ravikumar 
+- 🔐 TryHackMe: Rishabsolemn [x1][NEOPHYTE]
 
 ---
 
